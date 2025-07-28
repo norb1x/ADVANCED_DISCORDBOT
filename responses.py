@@ -1,0 +1,22 @@
+funny_responses = [
+    "Naprawdę znowu zmieniasz radio? Dobrze, uruchamiam nową stację, ale może tym razem zostaniemy przy niej dłużej?",
+    "Zmiana stacji ponownie – trudno się zdecydować, co? Włączam kolejną.",
+    "Widzę, że nie możesz się zdecydować co chcesz słuchać. Dobrze, zmieniam stację.",
+    "Kolejna zmiana? W porządku, ale postaraj się tym razem wybrać coś na dłużej.",
+    "Zmieniasz stację tak często, że aż trudno nadążyć. Przełączam jeszcze raz.",
+    "Dobrze, kolejna zmiana stacji. Może tym razem będzie to ta właściwa.",
+    "Masz problem z wyborem ulubionego radia? Włączam nową stację – zobaczymy, jak długo zostanie.",
+    "Jeszcze raz zmieniasz? Dobrze, przełączam, ale postaraj się zdecydować.",
+    "Wygląda na to, że szukasz idealnej stacji. Uruchamiam kolejną.",
+    "Kolejna zmiana radia – zaczyna się to robić tradycją. Przełączam.",
+    "Zmiana stacji numer 10… Wygląda na to, że to Twoje hobby! Uruchamiam kolejną.",
+    "Widzę, że lubisz testować różne stacje. Zmieniam na nową.",
+    "Następna stacja – mam nadzieję, że tym razem będzie odpowiednia.",
+    "Znów zmiana? Dobrze, przełączam, zobaczymy czy tym razem będzie lepiej.",
+    "Zmiana stacji ponownie – masz szeroki gust muzyczny!",
+    "Przełączam na nową stację. Może ta przypadnie Ci do gustu.",
+    "Zmieniasz radio po raz kolejny – w porządku, włączam nową stację.",
+    "Kolejna stacja w drodze – mam nadzieję, że teraz trafimy w dziesiątkę.",
+    "Widzę, że ciągle szukasz czegoś lepszego. Zmieniam stację.",
+    "Zmiana stacji – spróbujmy kolejnej opcji muzycznej."
+]
