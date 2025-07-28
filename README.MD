@@ -73,6 +73,8 @@ DISCORDBOT/
 ├── slots.py
 └── stealalert_feed.py
 
+##
+
 ## Wymagania
 
 Plik `requirements.txt` zawiera wszystkie niezbędne zależności:
