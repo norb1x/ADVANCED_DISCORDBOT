@@ -1,0 +1,7 @@
+discord.py
+aiosqlite
+requests
+feedparser
+beautifulsoup4
+yt-dlp
+pytz
