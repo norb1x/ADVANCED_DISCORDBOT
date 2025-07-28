@@ -48,7 +48,7 @@ Projekt zawiera system gier, ekonomii, pogodę, RSS, muzykę i wiele innych.
 ![PlayYT](images/playyt.png)
 
 ## Struktura projektu
-'''
+```
 DISCORDBOT/
 │
 ├── bot.py  
@@ -73,7 +73,7 @@ DISCORDBOT/
 ├── restart.py
 ├── slots.py
 └── stealalert_feed.py
-'''
+```
 ##
 
 ## Wymagania
