@@ -24,6 +24,28 @@ Projekt zawiera system gier, ekonomii, pogodę, RSS, muzykę i wiele innych.
   - Komendy typu `*ping`, `*restart`, `*komendy`, logowanie wejść/wyjść na VC
 
 ---
+## Przykłady działania
+
+### Ranking aktywności głosowej
+![Ranking głosowy](images/ranking.png)
+
+### Sloty – minigra
+![Sloty](images/slots.png)
+
+### Gra w łowienie ryb
+![Łowienie ryb](images/lowisko.png)
+
+### Okazje z Pepper.pl
+![Pepper](images/pepper.png)
+
+### Wpis z RSS (stealalert)
+![Stealalert](images/stealalert.png)
+
+### Logi kanału głosowego
+![Logi głosowe](images/logi.png)
+
+### Odtwarzanie z YouTube (educational)
+![PlayYT](images/playyt.png)
 
 ## Struktura projektu
 
